@@ -1,5 +1,5 @@
 # Monthly Evapotranspiration (PET) of South Korea using MODIS data
-Average Monthly Evapotranspiration using MODIS16 data for 3 years (2001,2005,2010) covers South Korea.
+Average Monthly Evapotranspiration for 3 years (2001,2005,2010) of South Korea.
 To view the maps: https://althuwaynee.github.io/S_Korea_Ave_Monthly_Evapotranspiration/
 
 
